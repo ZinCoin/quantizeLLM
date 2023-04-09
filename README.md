@@ -1,4 +1,7 @@
 # quantizeLLM
+
+ig @zingraphics
+
 quantizing LLM
 python -m torch.distributed.launch  to launch in parallel
 
